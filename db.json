@@ -1,0 +1,97 @@
+{
+  "allvideos": [
+    {
+      "caption": "Spectral Trailer",
+      "url": "https://www.youtube.com/embed/rmC3ZhIHHi4??si=Tb7KCGQdBJROaIb-&autoplay=1",
+      "image": "https://i.ytimg.com/vi/rmC3ZhIHHi4/maxresdefault.jpg",
+      "id": 1
+    },
+    {
+      "caption": "Prometheus Trailer",
+      "url": "https://www.youtube.com/embed/yA6OKoW30Pk??si=Tb7KCGQdBJROaIb-&autoplay=1",
+      "image": "https://i2.ytimg.com/vi/yA6OKoW30Pk/mqdefault.jpg",
+      "id": 2
+    },
+    {
+      "caption": "Battlefield Gameplay",
+      "url": "https://www.youtube.com/embed/dA6DwKBtAZ0??si=Tb7KCGQdBJROaIb-&autoplay=1",
+      "image": "https://i.ytimg.com/vi/dA6DwKBtAZ0/maxresdefault.jpg",
+      "id": 3
+    },
+    {
+      "caption": "Kukkad Song",
+      "url": "https://www.youtube.com/embed/1Na8nKEUjYI??si=Tb7KCGQdBJROaIb-&autoplay=1",
+      "image": "https://i.ytimg.com/vi/1Na8nKEUjYI/maxresdefault.jpg",
+      "id": 4
+    },
+    {
+      "caption": "CSS Tutorial",
+      "url": "https://www.youtube.com/embed/OXGznpKZ_sA??si=Tb7KCGQdBJROaIb-&autoplay=1",
+      "image": "https://i.ytimg.com/vi/qKoajPPWpmo/hqdefault.jpg",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "Trailer",
+      "videos": [
+        {
+          "caption": "Spectral Trailer",
+          "url": "https://www.youtube.com/embed/rmC3ZhIHHi4??si=Tb7KCGQdBJROaIb-&autoplay=1",
+          "image": "https://i.ytimg.com/vi/rmC3ZhIHHi4/maxresdefault.jpg",
+          "id": 1
+        },
+        {
+          "caption": "Prometheus Trailer",
+          "url": "https://www.youtube.com/embed/yA6OKoW30Pk??si=Tb7KCGQdBJROaIb-&autoplay=1",
+          "image": "https://i2.ytimg.com/vi/yA6OKoW30Pk/mqdefault.jpg",
+          "id": 2
+        },
+        {
+          "caption": "Spectral Trailer",
+          "url": "https://www.youtube.com/embed/rmC3ZhIHHi4??si=Tb7KCGQdBJROaIb-&autoplay=1",
+          "image": "https://i.ytimg.com/vi/rmC3ZhIHHi4/maxresdefault.jpg",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Gameplay",
+      "videos": [
+        {
+          "caption": "Battlefield Gameplay",
+          "url": "https://www.youtube.com/embed/dA6DwKBtAZ0??si=Tb7KCGQdBJROaIb-&autoplay=1",
+          "image": "https://i.ytimg.com/vi/dA6DwKBtAZ0/maxresdefault.jpg",
+          "id": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Songs",
+      "videos": [
+        {
+          "caption": "Kukkad Song",
+          "url": "https://www.youtube.com/embed/1Na8nKEUjYI??si=Tb7KCGQdBJROaIb-&autoplay=1",
+          "image": "https://i.ytimg.com/vi/1Na8nKEUjYI/maxresdefault.jpg",
+          "id": 4
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Tutorials",
+      "videos": [
+        {
+          "caption": "CSS Tutorial",
+          "url": "https://www.youtube.com/embed/OXGznpKZ_sA??si=Tb7KCGQdBJROaIb-&autoplay=1",
+          "image": "https://i.ytimg.com/vi/qKoajPPWpmo/hqdefault.jpg",
+          "id": 5
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "history": []
+}
